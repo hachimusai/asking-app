@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #2C2C2C;
+  background-image: url("data:image/svg+xml;utf8,<svg width='40' height='40' viewBox='0 0 40 40' fill='none' xmlns='http://www.w3.org/2000/svg'><circle cx='20' cy='20' r='18' stroke='%23A8DADC' stroke-width='1' fill='none' opacity='0.08'/><circle cx='20' cy='20' r='8' stroke='%23B39CD0' stroke-width='1' fill='none' opacity='0.10'/></svg>");
+  background-repeat: repeat;
+  background-size: 40px 40px;
+}
