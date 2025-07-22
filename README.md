@@ -82,6 +82,18 @@ askingwho/
 
 ## Note
 Some sections may include Turkish content. I'll update them to English soon.
+
+## Images
+<table>
+  <tr>
+    <td><img src="Project%20Feed.png" width="200"/></td>
+    <td><img src="Project%20Settings.png" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="Project%20Search.png" width="200"/></td>
+    <td><img src="Project%20Profile.png" width="200"/></td>
+  </tr>
+</table>
 ## License
 This project is licensed under the MIT License.
 
