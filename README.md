@@ -94,6 +94,7 @@ Some sections may include Turkish content. I'll update them to English soon.
     <td><img src="Project%20Profile.png" width="200"/></td>
   </tr>
 </table>
+
 ## License
 This project is licensed under the MIT License.
 
