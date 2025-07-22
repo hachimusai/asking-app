@@ -1,6 +1,6 @@
 # AskingWho
 
-AskingWho is a full-stack Q&A social platform where users can register, ask and answer questions, and interact with each other. The project is built with a React (Vite) frontend and a Node.js (Express) backend.
+AskingWho is a full-stack Q&A social media platform where users can register, ask and answer questions, and interact with each other. The project is built with a React (Vite) frontend and a Node.js (Express) backend.
 
 ## Features
 - User registration and login
